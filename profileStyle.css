@@ -40,3 +40,15 @@ i:hover{
     cursor: pointer;
     color: antiquewhite;
 }
+
+@media screen and (max-width: 500px){
+    .profile{
+        width: 600px;
+    }
+    img{
+        height: 300px;
+    }
+    .profileFonts{
+        font-size: 45px;
+    }
+}
